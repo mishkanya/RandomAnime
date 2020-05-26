@@ -1,0 +1,2 @@
+# RandomAnime
+ GetRandomAnimeResponse
